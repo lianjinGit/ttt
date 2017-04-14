@@ -1,0 +1,1422 @@
+ËÄÔÂ 14, 2017 10:08:12 ÉÏÎç rabbit.proxy.ProxyLogger setup
+ĞÅÏ¢: Log level set to: INFO
+ËÄÔÂ 14, 2017 10:08:12 ÉÏÎç rabbit.proxy.HttpProxy setupDNSHandler
+¾¯¸æ: This seems like a windows system, will use default sun handler for DNS
+ËÄÔÂ 14, 2017 10:08:13 ÉÏÎç rabbit.handler.convert.ExternalProcessConverter <init>
+¾¯¸æ: convert -/usr/bin/gm- not found, is your path correct?
+ËÄÔÂ 14, 2017 10:08:13 ÉÏÎç rabbit.handler.ImageHandler setup
+¾¯¸æ: imageConverter: rabbit.handler.convert.ExternalProcessConverter@3d71d552 can not convert images, using java.
+ËÄÔÂ 14, 2017 10:08:13 ÉÏÎç rabbit.handler.convert.ExternalProcessConverter <init>
+¾¯¸æ: convert -/usr/bin/gm- not found, is your path correct?
+ËÄÔÂ 14, 2017 10:08:13 ÉÏÎç rabbit.handler.ImageHandler setup
+¾¯¸æ: imageConverter: rabbit.handler.convert.ExternalProcessConverter@7e0b37bc can not convert images, using java.
+ËÄÔÂ 14, 2017 10:08:13 ÉÏÎç rabbit.handler.convert.ExternalProcessConverter <init>
+¾¯¸æ: convert -/usr/bin/gm- not found, is your path correct?
+ËÄÔÂ 14, 2017 10:08:13 ÉÏÎç rabbit.handler.ImageHandler setup
+¾¯¸æ: imageConverter: rabbit.handler.convert.ExternalProcessConverter@3b95a09c can not convert images, using java.
+ËÄÔÂ 14, 2017 10:08:13 ÉÏÎç rabbit.proxy.HttpProxy setConfig
+ĞÅÏ¢: RabbIT proxy version 4.11: Configuration loaded: ready for action.
+ËÄÔÂ 14, 2017 10:09:41 ÉÏÎç rabbit.proxy.ProxyLogger setup
+ĞÅÏ¢: Log level set to: INFO
+ËÄÔÂ 14, 2017 10:09:41 ÉÏÎç rabbit.proxy.HttpProxy setupDNSHandler
+¾¯¸æ: This seems like a windows system, will use default sun handler for DNS
+ËÄÔÂ 14, 2017 10:09:41 ÉÏÎç rabbit.cache.ncache.NCache readCacheIndex
+ĞÅÏ¢: No cache index found: \tmp\rcache\cache.index, treating as empty cache
+ËÄÔÂ 14, 2017 10:09:41 ÉÏÎç rabbit.handler.convert.ExternalProcessConverter <init>
+¾¯¸æ: convert -/usr/bin/gm- not found, is your path correct?
+ËÄÔÂ 14, 2017 10:09:41 ÉÏÎç rabbit.handler.ImageHandler setup
+¾¯¸æ: imageConverter: rabbit.handler.convert.ExternalProcessConverter@e2144e4 can not convert images, using java.
+ËÄÔÂ 14, 2017 10:09:41 ÉÏÎç rabbit.handler.convert.ExternalProcessConverter <init>
+¾¯¸æ: convert -/usr/bin/gm- not found, is your path correct?
+ËÄÔÂ 14, 2017 10:09:41 ÉÏÎç rabbit.handler.ImageHandler setup
+¾¯¸æ: imageConverter: rabbit.handler.convert.ExternalProcessConverter@48533e64 can not convert images, using java.
+ËÄÔÂ 14, 2017 10:09:41 ÉÏÎç rabbit.handler.convert.ExternalProcessConverter <init>
+¾¯¸æ: convert -/usr/bin/gm- not found, is your path correct?
+ËÄÔÂ 14, 2017 10:09:41 ÉÏÎç rabbit.handler.ImageHandler setup
+¾¯¸æ: imageConverter: rabbit.handler.convert.ExternalProcessConverter@64a294a6 can not convert images, using java.
+ËÄÔÂ 14, 2017 10:09:41 ÉÏÎç rabbit.proxy.HttpProxy setConfig
+ĞÅÏ¢: RabbIT proxy version 4.11: Configuration loaded: ready for action.
+ËÄÔÂ 14, 2017 10:14:03 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: clients1.google.com:443
+ËÄÔÂ 14, 2017 10:14:09 ÉÏÎç rabbit.proxy.Tunnel$OneWayTunnel read
+¾¯¸æ: Got exception reading from tunnel: java.io.IOException: Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓĞµÄÁ¬½Ó¡£
+ËÄÔÂ 14, 2017 10:14:13 ÉÏÎç rabbit.proxy.Tunnel$OneWayTunnel read
+¾¯¸æ: Got exception reading from tunnel: java.io.IOException: Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓĞµÄÁ¬½Ó¡£
+ËÄÔÂ 14, 2017 10:14:19 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: clients1.google.com:443
+ËÄÔÂ 14, 2017 10:14:21 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: clients1.google.com:443
+ËÄÔÂ 14, 2017 10:14:22 ÉÏÎç rabbit.handler.BaseHandler failed
+¾¯¸æ: BaseHandler: error handling request: http://m.tiebaimg.com/timg?wapp&quality=80&size=b65_65&subsize=20480&cut_x=0&cut_w=0&cut_y=0&cut_h=0&sec=1369815402&srctrace&di=f88d0cfc605d45cc48f11de0583245a3&wh_rate=null&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fpic%2Fitem%2F2934349b033b5bb52b5466a937d3d539b700bce2.jpg: javax.imageio.IIOException: Unsupported Image Type
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.readInternal(JPEGImageReader.java:1068)
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.read(JPEGImageReader.java:1039)
+	at javax.imageio.ImageReader.read(ImageReader.java:939)
+	at rabbit.handler.convert.JavaImageConverter.getImage(JavaImageConverter.java:102)
+	at rabbit.handler.convert.JavaImageConverter.getImage(JavaImageConverter.java:83)
+	at rabbit.handler.convert.JavaImageConverter.convertImage(JavaImageConverter.java:46)
+	at rabbit.handler.ImageHandler.internalConvertImage(ImageHandler.java:387)
+	at rabbit.handler.ImageHandler.convertAndGetBest(ImageHandler.java:322)
+	at rabbit.handler.ImageHandler.access$400(ImageHandler.java:33)
+	at rabbit.handler.ImageHandler$1.run(ImageHandler.java:303)
+	at org.khelekore.rnio.impl.StatisticsCollector.run(StatisticsCollector.java:37)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:14:23 ÉÏÎç rabbit.handler.BaseHandler failed
+¾¯¸æ: BaseHandler: error handling request: http://m.tiebaimg.com/timg?wapp&quality=80&size=b65_65&subsize=20480&cut_x=0&cut_w=0&cut_y=0&cut_h=0&sec=1369815402&srctrace&di=f88d0cfc605d45cc48f11de0583245a3&wh_rate=null&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fpic%2Fitem%2F2934349b033b5bb52b5466a937d3d539b700bce2.jpg: javax.imageio.IIOException: Unsupported Image Type
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.readInternal(JPEGImageReader.java:1068)
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.read(JPEGImageReader.java:1039)
+	at javax.imageio.ImageReader.read(ImageReader.java:939)
+	at rabbit.handler.convert.JavaImageConverter.getImage(JavaImageConverter.java:102)
+	at rabbit.handler.convert.JavaImageConverter.getImage(JavaImageConverter.java:83)
+	at rabbit.handler.convert.JavaImageConverter.convertImage(JavaImageConverter.java:46)
+	at rabbit.handler.ImageHandler.internalConvertImage(ImageHandler.java:387)
+	at rabbit.handler.ImageHandler.convertAndGetBest(ImageHandler.java:322)
+	at rabbit.handler.ImageHandler.access$400(ImageHandler.java:33)
+	at rabbit.handler.ImageHandler$1.run(ImageHandler.java:303)
+	at org.khelekore.rnio.impl.StatisticsCollector.run(StatisticsCollector.java:37)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:14:23 ÉÏÎç rabbit.handler.BaseHandler failed
+¾¯¸æ: BaseHandler: error handling request: http://m.tiebaimg.com/timg?wapp&quality=80&size=b65_65&subsize=20480&cut_x=0&cut_w=0&cut_y=0&cut_h=0&sec=1369815402&srctrace&di=f88d0cfc605d45cc48f11de0583245a3&wh_rate=null&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fpic%2Fitem%2F2934349b033b5bb52b5466a937d3d539b700bce2.jpg: javax.imageio.IIOException: Unsupported Image Type
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.readInternal(JPEGImageReader.java:1068)
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.read(JPEGImageReader.java:1039)
+	at javax.imageio.ImageReader.read(ImageReader.java:939)
+	at rabbit.handler.convert.JavaImageConverter.getImage(JavaImageConverter.java:102)
+	at rabbit.handler.convert.JavaImageConverter.getImage(JavaImageConverter.java:83)
+	at rabbit.handler.convert.JavaImageConverter.convertImage(JavaImageConverter.java:46)
+	at rabbit.handler.ImageHandler.internalConvertImage(ImageHandler.java:387)
+	at rabbit.handler.ImageHandler.convertAndGetBest(ImageHandler.java:322)
+	at rabbit.handler.ImageHandler.access$400(ImageHandler.java:33)
+	at rabbit.handler.ImageHandler$1.run(ImageHandler.java:303)
+	at org.khelekore.rnio.impl.StatisticsCollector.run(StatisticsCollector.java:37)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:14:24 ÉÏÎç rabbit.handler.BaseHandler failed
+¾¯¸æ: BaseHandler: error handling request: http://m.tiebaimg.com/timg?wapp&quality=80&size=b65_65&subsize=20480&cut_x=0&cut_w=0&cut_y=0&cut_h=0&sec=1369815402&srctrace&di=f88d0cfc605d45cc48f11de0583245a3&wh_rate=null&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fpic%2Fitem%2F2934349b033b5bb52b5466a937d3d539b700bce2.jpg: javax.imageio.IIOException: Unsupported Image Type
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.readInternal(JPEGImageReader.java:1068)
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.read(JPEGImageReader.java:1039)
+	at javax.imageio.ImageReader.read(ImageReader.java:939)
+	at rabbit.handler.convert.JavaImageConverter.getImage(JavaImageConverter.java:102)
+	at rabbit.handler.convert.JavaImageConverter.getImage(JavaImageConverter.java:83)
+	at rabbit.handler.convert.JavaImageConverter.convertImage(JavaImageConverter.java:46)
+	at rabbit.handler.ImageHandler.internalConvertImage(ImageHandler.java:387)
+	at rabbit.handler.ImageHandler.convertAndGetBest(ImageHandler.java:322)
+	at rabbit.handler.ImageHandler.access$400(ImageHandler.java:33)
+	at rabbit.handler.ImageHandler$1.run(ImageHandler.java:303)
+	at org.khelekore.rnio.impl.StatisticsCollector.run(StatisticsCollector.java:37)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:14:25 ÉÏÎç rabbit.handler.BaseHandler failed
+¾¯¸æ: BaseHandler: error handling request: http://m.tiebaimg.com/timg?wapp&quality=80&size=b65_65&subsize=20480&cut_x=0&cut_w=0&cut_y=0&cut_h=0&sec=1369815402&srctrace&di=f88d0cfc605d45cc48f11de0583245a3&wh_rate=null&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fpic%2Fitem%2F2934349b033b5bb52b5466a937d3d539b700bce2.jpg: javax.imageio.IIOException: Unsupported Image Type
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.readInternal(JPEGImageReader.java:1068)
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.read(JPEGImageReader.java:1039)
+	at javax.imageio.ImageReader.read(ImageReader.java:939)
+	at rabbit.handler.convert.JavaImageConverter.getImage(JavaImageConverter.java:102)
+	at rabbit.handler.convert.JavaImageConverter.getImage(JavaImageConverter.java:83)
+	at rabbit.handler.convert.JavaImageConverter.convertImage(JavaImageConverter.java:46)
+	at rabbit.handler.ImageHandler.internalConvertImage(ImageHandler.java:387)
+	at rabbit.handler.ImageHandler.convertAndGetBest(ImageHandler.java:322)
+	at rabbit.handler.ImageHandler.access$400(ImageHandler.java:33)
+	at rabbit.handler.ImageHandler$1.run(ImageHandler.java:303)
+	at org.khelekore.rnio.impl.StatisticsCollector.run(StatisticsCollector.java:37)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:14:25 ÉÏÎç rabbit.handler.BaseHandler failed
+¾¯¸æ: BaseHandler: error handling request: http://m.tiebaimg.com/timg?wapp&quality=80&size=b65_65&subsize=20480&cut_x=0&cut_w=0&cut_y=0&cut_h=0&sec=1369815402&srctrace&di=f88d0cfc605d45cc48f11de0583245a3&wh_rate=null&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fpic%2Fitem%2F2934349b033b5bb52b5466a937d3d539b700bce2.jpg: javax.imageio.IIOException: Unsupported Image Type
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.readInternal(JPEGImageReader.java:1068)
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.read(JPEGImageReader.java:1039)
+	at javax.imageio.ImageReader.read(ImageReader.java:939)
+	at rabbit.handler.convert.JavaImageConverter.getImage(JavaImageConverter.java:102)
+	at rabbit.handler.convert.JavaImageConverter.getImage(JavaImageConverter.java:83)
+	at rabbit.handler.convert.JavaImageConverter.convertImage(JavaImageConverter.java:46)
+	at rabbit.handler.ImageHandler.internalConvertImage(ImageHandler.java:387)
+	at rabbit.handler.ImageHandler.convertAndGetBest(ImageHandler.java:322)
+	at rabbit.handler.ImageHandler.access$400(ImageHandler.java:33)
+	at rabbit.handler.ImageHandler$1.run(ImageHandler.java:303)
+	at org.khelekore.rnio.impl.StatisticsCollector.run(StatisticsCollector.java:37)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:14:25 ÉÏÎç rabbit.handler.BaseHandler failed
+¾¯¸æ: BaseHandler: error handling request: http://m.tiebaimg.com/timg?wapp&quality=80&size=b65_65&subsize=20480&cut_x=0&cut_w=0&cut_y=0&cut_h=0&sec=1369815402&srctrace&di=f88d0cfc605d45cc48f11de0583245a3&wh_rate=null&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fpic%2Fitem%2F2934349b033b5bb52b5466a937d3d539b700bce2.jpg: javax.imageio.IIOException: Unsupported Image Type
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.readInternal(JPEGImageReader.java:1068)
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.read(JPEGImageReader.java:1039)
+	at javax.imageio.ImageReader.read(ImageReader.java:939)
+	at rabbit.handler.convert.JavaImageConverter.getImage(JavaImageConverter.java:102)
+	at rabbit.handler.convert.JavaImageConverter.getImage(JavaImageConverter.java:83)
+	at rabbit.handler.convert.JavaImageConverter.convertImage(JavaImageConverter.java:46)
+	at rabbit.handler.ImageHandler.internalConvertImage(ImageHandler.java:387)
+	at rabbit.handler.ImageHandler.convertAndGetBest(ImageHandler.java:322)
+	at rabbit.handler.ImageHandler.access$400(ImageHandler.java:33)
+	at rabbit.handler.ImageHandler$1.run(ImageHandler.java:303)
+	at org.khelekore.rnio.impl.StatisticsCollector.run(StatisticsCollector.java:37)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:14:25 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: clients4.google.com:443
+ËÄÔÂ 14, 2017 10:14:39 ÉÏÎç rabbit.handler.BaseHandler failed
+¾¯¸æ: BaseHandler: error handling request: http://tb-video.bdstatic.com/tieba-smallvideo/3_141f0ddc48f9c949e9a7633d88d9f1b7.mp4: java.io.IOException: Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓĞµÄÁ¬½Ó¡£
+	at sun.nio.ch.SocketDispatcher.writev0(Native Method)
+	at sun.nio.ch.SocketDispatcher.writev(SocketDispatcher.java:55)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:148)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:504)
+	at java.nio.channels.SocketChannel.write(SocketChannel.java:502)
+	at rabbit.httpio.BlockSender.writeBuffer(BlockSender.java:92)
+	at rabbit.httpio.BlockSender.write(BlockSender.java:82)
+	at rabbit.httpio.HttpHeaderSender.sendHeader(HttpHeaderSender.java:45)
+	at rabbit.handler.BaseHandler.sendHeader(BaseHandler.java:153)
+	at rabbit.handler.BaseHandler.handle(BaseHandler.java:138)
+	at rabbit.proxy.Connection.resourceEstablished(Connection.java:517)
+	at rabbit.proxy.Connection.webConnectionEstablished(Connection.java:419)
+	at rabbit.proxy.SWC.httpHeaderRead(SWC.java:200)
+	at rabbit.httpio.HttpHeaderReader.parseBuffer(HttpHeaderReader.java:162)
+	at rabbit.httpio.HttpHeaderReader.read(HttpHeaderReader.java:116)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleRead(ChannelOpsHandler.java:105)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:160)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:14:39 ÉÏÎç rabbit.handler.BaseHandler failed
+¾¯¸æ: BaseHandler: error handling request: http://tb-video.bdstatic.com/tieba-smallvideo/3_141f0ddc48f9c949e9a7633d88d9f1b7.mp4: java.io.IOException: Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓĞµÄÁ¬½Ó¡£
+	at sun.nio.ch.SocketDispatcher.writev0(Native Method)
+	at sun.nio.ch.SocketDispatcher.writev(SocketDispatcher.java:55)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:148)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:504)
+	at java.nio.channels.SocketChannel.write(SocketChannel.java:502)
+	at rabbit.httpio.BlockSender.writeBuffer(BlockSender.java:92)
+	at rabbit.httpio.BlockSender.write(BlockSender.java:82)
+	at rabbit.handler.BaseHandler.bufferRead(BaseHandler.java:501)
+	at rabbit.httpio.WebConnectionResourceSource.handleBlock(WebConnectionResourceSource.java:123)
+	at rabbit.httpio.WebConnectionResourceSource.read(WebConnectionResourceSource.java:166)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleRead(ChannelOpsHandler.java:105)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:160)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:14:44 ÉÏÎç rabbit.handler.BaseHandler failed
+¾¯¸æ: BaseHandler: error handling request: http://tb-video.bdstatic.com/tieba-smallvideo/4_013956e8d24051fd4d6a70919b53e22b.mp4: java.io.IOException: Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓĞµÄÁ¬½Ó¡£
+	at sun.nio.ch.SocketDispatcher.writev0(Native Method)
+	at sun.nio.ch.SocketDispatcher.writev(SocketDispatcher.java:55)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:148)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:504)
+	at java.nio.channels.SocketChannel.write(SocketChannel.java:502)
+	at rabbit.httpio.BlockSender.writeBuffer(BlockSender.java:92)
+	at rabbit.httpio.BlockSender.write(BlockSender.java:82)
+	at rabbit.httpio.HttpHeaderSender.sendHeader(HttpHeaderSender.java:45)
+	at rabbit.handler.BaseHandler.sendHeader(BaseHandler.java:153)
+	at rabbit.handler.BaseHandler.handle(BaseHandler.java:138)
+	at rabbit.proxy.Connection.resourceEstablished(Connection.java:517)
+	at rabbit.proxy.Connection.webConnectionEstablished(Connection.java:419)
+	at rabbit.proxy.SWC.httpHeaderRead(SWC.java:200)
+	at rabbit.httpio.HttpHeaderReader.parseBuffer(HttpHeaderReader.java:162)
+	at rabbit.httpio.HttpHeaderReader.read(HttpHeaderReader.java:116)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleRead(ChannelOpsHandler.java:105)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:160)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:14:45 ÉÏÎç rabbit.handler.BaseHandler failed
+¾¯¸æ: BaseHandler: error handling request: http://tb-video.bdstatic.com/tieba-smallvideo/4_013956e8d24051fd4d6a70919b53e22b.mp4: java.io.IOException: Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓĞµÄÁ¬½Ó¡£
+	at sun.nio.ch.SocketDispatcher.writev0(Native Method)
+	at sun.nio.ch.SocketDispatcher.writev(SocketDispatcher.java:55)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:148)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:504)
+	at java.nio.channels.SocketChannel.write(SocketChannel.java:502)
+	at rabbit.httpio.BlockSender.writeBuffer(BlockSender.java:92)
+	at rabbit.httpio.BlockSender.write(BlockSender.java:82)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleWrite(ChannelOpsHandler.java:118)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:165)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:14:51 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: clients1.google.com:443
+ËÄÔÂ 14, 2017 10:15:03 ÉÏÎç rabbit.handler.BaseHandler failed
+¾¯¸æ: BaseHandler: error handling request: http://bj.bcebos.com/fc-feed/4/pic/6b643dce44ff3e89dd4cf05576aff413.jpg: java.io.IOException: Timeout
+	at rabbit.handler.ImageHandler$ImageReader.timeout(ImageHandler.java:292)
+	at rabbit.httpio.WebConnectionResourceSource.timeout(WebConnectionResourceSource.java:189)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.doTimeout(ChannelOpsHandler.java:188)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.doTimeouts(ChannelOpsHandler.java:194)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.cancelTimeouts(SingleSelectorRunner.java:318)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:203)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:15:06 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: clients1.google.com:443
+ËÄÔÂ 14, 2017 10:15:06 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: clients1.google.com:443
+ËÄÔÂ 14, 2017 10:15:06 ÉÏÎç rabbit.httpio.HttpHeaderParser verifyResponse
+¾¯¸æ: http response header with odd start:?????
+ËÄÔÂ 14, 2017 10:15:09 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: clients4.google.com:443
+ËÄÔÂ 14, 2017 10:15:23 ÉÏÎç rabbit.handler.BaseHandler timeout
+¾¯¸æ: BaseHandler: timeout: uri: http://bj.bcebos.com/fc-feed/4/pic/6b643dce44ff3e89dd4cf05576aff413.jpg
+ËÄÔÂ 14, 2017 10:15:25 ÉÏÎç rabbit.handler.FilterHandler handleArray
+ĞÅÏ¢: Bad HTML: rabbit.html.HtmlParseException: strange arglist: <div id="bdshare" data="{" title>
+ËÄÔÂ 14, 2017 10:15:26 ÉÏÎç rabbit.httpio.HttpHeaderParser verifyResponse
+¾¯¸æ: http response header with odd start:m?m4
+ËÄÔÂ 14, 2017 10:15:26 ÉÏÎç rabbit.handler.BaseHandler failed
+¾¯¸æ: BaseHandler: error handling request: http://bj.bcebos.com/fc-feed/0/pic/8d6f00287a17f0886ae2c72f66485e17.jpg: java.io.IOException: ÄúµÄÖ÷»úÖĞµÄÈí¼şÖĞÖ¹ÁËÒ»¸öÒÑ½¨Á¢µÄÁ¬½Ó¡£
+	at sun.nio.ch.SocketDispatcher.writev0(Native Method)
+	at sun.nio.ch.SocketDispatcher.writev(SocketDispatcher.java:55)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:148)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:504)
+	at java.nio.channels.SocketChannel.write(SocketChannel.java:502)
+	at rabbit.httpio.BlockSender.writeBuffer(BlockSender.java:92)
+	at rabbit.httpio.BlockSender.write(BlockSender.java:82)
+	at rabbit.handler.BaseHandler.bufferRead(BaseHandler.java:501)
+	at rabbit.httpio.WebConnectionResourceSource.handleBlock(WebConnectionResourceSource.java:123)
+	at rabbit.httpio.WebConnectionResourceSource.read(WebConnectionResourceSource.java:166)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleRead(ChannelOpsHandler.java:105)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:160)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:15:36 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: clients1.google.com:443
+ËÄÔÂ 14, 2017 10:15:43 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: java.net.UnknownHostException: passport.bdimg.com: http://passport.bdimg.com/passApi/js/wrapper.js?cdnversion=24868935
+ËÄÔÂ 14, 2017 10:15:52 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: clients1.google.com:443
+ËÄÔÂ 14, 2017 10:15:52 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: clients1.google.com:443
+ËÄÔÂ 14, 2017 10:16:22 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: clients1.google.com:443
+ËÄÔÂ 14, 2017 10:16:22 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: www.google.com:443
+ËÄÔÂ 14, 2017 10:16:45 ÉÏÎç rabbit.proxy.ProxyLogger setup
+ĞÅÏ¢: Log level set to: INFO
+ËÄÔÂ 14, 2017 10:16:45 ÉÏÎç rabbit.proxy.HttpProxy setupDNSHandler
+¾¯¸æ: This seems like a windows system, will use default sun handler for DNS
+ËÄÔÂ 14, 2017 10:16:45 ÉÏÎç rabbit.handler.convert.ExternalProcessConverter <init>
+¾¯¸æ: convert -/usr/bin/gm- not found, is your path correct?
+ËÄÔÂ 14, 2017 10:16:45 ÉÏÎç rabbit.handler.ImageHandler setup
+¾¯¸æ: imageConverter: rabbit.handler.convert.ExternalProcessConverter@593634ad can not convert images, using java.
+ËÄÔÂ 14, 2017 10:16:45 ÉÏÎç rabbit.handler.convert.ExternalProcessConverter <init>
+¾¯¸æ: convert -/usr/bin/gm- not found, is your path correct?
+ËÄÔÂ 14, 2017 10:16:45 ÉÏÎç rabbit.handler.ImageHandler setup
+¾¯¸æ: imageConverter: rabbit.handler.convert.ExternalProcessConverter@7e774085 can not convert images, using java.
+ËÄÔÂ 14, 2017 10:16:45 ÉÏÎç rabbit.handler.convert.ExternalProcessConverter <init>
+¾¯¸æ: convert -/usr/bin/gm- not found, is your path correct?
+ËÄÔÂ 14, 2017 10:16:45 ÉÏÎç rabbit.handler.ImageHandler setup
+¾¯¸æ: imageConverter: rabbit.handler.convert.ExternalProcessConverter@3f8f9dd6 can not convert images, using java.
+ËÄÔÂ 14, 2017 10:16:45 ÉÏÎç rabbit.proxy.HttpProxy setConfig
+ĞÅÏ¢: RabbIT proxy version 4.11: Configuration loaded: ready for action.
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: sp1.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss1.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss1.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: sp0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss1.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: sp0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: sp0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss1.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: sp0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss1.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: www.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: sp0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: sp1.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: sp0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss1.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss1.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:00 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss1.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss1.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: www.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss1.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: sp1.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss1.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: sp0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss1.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: www.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: sp0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss1.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss1.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss1.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss1.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: sp1.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: sp0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: sp0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss1.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.bdstatic.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: ss0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: sp0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:02 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: sp0.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:03 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: www.baidu.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:07 ÉÏÎç rabbit.proxy.SSLHandler$ChainResponseHandler timeout
+¾¯¸æ: SSLHandler: Timeout waiting for chained response: clients1.google.com:443
+ËÄÔÂ 14, 2017 10:17:09 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tbmsg.baidu.com/gmessage/get?mtype=1&_=1492136223143, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:17:09 ÉÏÎç rabbit.proxy.SSLHandler$ChainResponseHandler timeout
+¾¯¸æ: SSLHandler: Timeout waiting for chained response: clients1.google.com:443
+ËÄÔÂ 14, 2017 10:17:13 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: clients1.google.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:13 ÉÏÎç rabbit.proxy.SSLHandler$ChainResponseHandler timeout
+¾¯¸æ: SSLHandler: Timeout waiting for chained response: clients1.google.com:443
+ËÄÔÂ 14, 2017 10:17:15 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: clients1.google.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:20 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://localhost:9666/, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:17:24 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tbmsg.baidu.com/gmessage/get?mtype=1&_=1492136233144, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:17:24 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://localhost:9666/, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:17:31 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tbmsg.baidu.com/gmessage/get?mtype=1&_=1492136213144, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:17:35 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: clients1.google.com:443
+ËÄÔÂ 14, 2017 10:17:58 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tieba.baidu.com/home/get/panel?ie=utf-8&un=%E4%B8%BA%E4%BD%A0%E5%BC%83%E6%B1%9F%E5%B1%B1%E6%97%A0%E6%82%94, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:17:58 ÉÏÎç rabbit.proxy.Connection$SendAndRestartListener failed
+ĞÅÏ¢: Exception when sending http header
+java.io.IOException: Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓĞµÄÁ¬½Ó¡£
+	at sun.nio.ch.SocketDispatcher.writev0(Native Method)
+	at sun.nio.ch.SocketDispatcher.writev(SocketDispatcher.java:55)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:148)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:504)
+	at java.nio.channels.SocketChannel.write(SocketChannel.java:502)
+	at rabbit.httpio.BlockSender.writeBuffer(BlockSender.java:92)
+	at rabbit.httpio.BlockSender.write(BlockSender.java:82)
+	at rabbit.httpio.HttpHeaderSender.sendHeader(HttpHeaderSender.java:45)
+	at rabbit.proxy.Connection.sendAndTryRestart(Connection.java:1082)
+	at rabbit.proxy.Connection.sendAndClose(Connection.java:1095)
+	at rabbit.proxy.Connection.doGateWayTimeout(Connection.java:741)
+	at rabbit.proxy.Connection.tryStaleEntry(Connection.java:635)
+	at rabbit.proxy.Connection.webConnectionSetupFailed(Connection.java:382)
+	at rabbit.proxy.SWC.establish(SWC.java:73)
+	at rabbit.proxy.SWC.failed(SWC.java:292)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:145)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:59 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tb2.bdstatic.com/tb/static-common/component/card/images/grey_arrow_up_4b9a464.gif, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:17:59 ÉÏÎç rabbit.proxy.Connection$SendAndRestartListener failed
+ĞÅÏ¢: Exception when sending http header
+java.io.IOException: Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓĞµÄÁ¬½Ó¡£
+	at sun.nio.ch.SocketDispatcher.writev0(Native Method)
+	at sun.nio.ch.SocketDispatcher.writev(SocketDispatcher.java:55)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:148)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:504)
+	at java.nio.channels.SocketChannel.write(SocketChannel.java:502)
+	at rabbit.httpio.BlockSender.writeBuffer(BlockSender.java:92)
+	at rabbit.httpio.BlockSender.write(BlockSender.java:82)
+	at rabbit.httpio.HttpHeaderSender.sendHeader(HttpHeaderSender.java:45)
+	at rabbit.proxy.Connection.sendAndTryRestart(Connection.java:1082)
+	at rabbit.proxy.Connection.sendAndClose(Connection.java:1095)
+	at rabbit.proxy.Connection.doGateWayTimeout(Connection.java:741)
+	at rabbit.proxy.Connection.tryStaleEntry(Connection.java:635)
+	at rabbit.proxy.Connection.webConnectionSetupFailed(Connection.java:382)
+	at rabbit.proxy.SWC.establish(SWC.java:73)
+	at rabbit.proxy.SWC.failed(SWC.java:292)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:145)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:17:59 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tieba.baidu.com/home/get/panel?ie=utf-8&un=%E6%98%8E%E5%85%88%E7%94%9F6666, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:17:59 ÉÏÎç rabbit.proxy.Connection$SendAndRestartListener failed
+ĞÅÏ¢: Exception when sending http header
+java.io.IOException: Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓĞµÄÁ¬½Ó¡£
+	at sun.nio.ch.SocketDispatcher.writev0(Native Method)
+	at sun.nio.ch.SocketDispatcher.writev(SocketDispatcher.java:55)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:148)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:504)
+	at java.nio.channels.SocketChannel.write(SocketChannel.java:502)
+	at rabbit.httpio.BlockSender.writeBuffer(BlockSender.java:92)
+	at rabbit.httpio.BlockSender.write(BlockSender.java:82)
+	at rabbit.httpio.HttpHeaderSender.sendHeader(HttpHeaderSender.java:45)
+	at rabbit.proxy.Connection.sendAndTryRestart(Connection.java:1082)
+	at rabbit.proxy.Connection.sendAndClose(Connection.java:1095)
+	at rabbit.proxy.Connection.doGateWayTimeout(Connection.java:741)
+	at rabbit.proxy.Connection.tryStaleEntry(Connection.java:635)
+	at rabbit.proxy.Connection.webConnectionSetupFailed(Connection.java:382)
+	at rabbit.proxy.SWC.establish(SWC.java:73)
+	at rabbit.proxy.SWC.failed(SWC.java:292)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:145)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:18:00 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://eclick.baidu.com/a.js?tu=3441469&jk=638d5389e98836ea&word=http%3A%2F%2Ftieba.baidu.com%2Fp%2F5003365597&if=3&aw=200&ah=200&pt=131000&it=0&vt=130972&csp=1920,1040&bcl=200,200&pof=200,241&top=36&left=0&total=1&rdm=1492136269316, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:18:01 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tb2.bdstatic.com/tb/static-common/component/card/images/grey_border_97762d7.png, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:18:01 ÉÏÎç rabbit.proxy.Connection$SendAndRestartListener failed
+ĞÅÏ¢: Exception when sending http header
+java.io.IOException: Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓĞµÄÁ¬½Ó¡£
+	at sun.nio.ch.SocketDispatcher.writev0(Native Method)
+	at sun.nio.ch.SocketDispatcher.writev(SocketDispatcher.java:55)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:148)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:504)
+	at java.nio.channels.SocketChannel.write(SocketChannel.java:502)
+	at rabbit.httpio.BlockSender.writeBuffer(BlockSender.java:92)
+	at rabbit.httpio.BlockSender.write(BlockSender.java:82)
+	at rabbit.httpio.HttpHeaderSender.sendHeader(HttpHeaderSender.java:45)
+	at rabbit.proxy.Connection.sendAndTryRestart(Connection.java:1082)
+	at rabbit.proxy.Connection.sendAndClose(Connection.java:1095)
+	at rabbit.proxy.Connection.doGateWayTimeout(Connection.java:741)
+	at rabbit.proxy.Connection.tryStaleEntry(Connection.java:635)
+	at rabbit.proxy.Connection.webConnectionSetupFailed(Connection.java:382)
+	at rabbit.proxy.SWC.establish(SWC.java:73)
+	at rabbit.proxy.SWC.failed(SWC.java:292)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:145)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:18:02 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://nsclick.baidu.com/v.gif?pid=307&type=3075&l=122588&t=2807&s=122588&v=985&f=4000&r=http%3A%2F%2Ftieba.baidu.com%2Ff%3Fkw%3D%25D0%25C5%25B7%25E1%26fr%3Dala0%26tpl%3D5&u=http%3A%2F%2Ftieba.baidu.com%2Fp%2F5003365597, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:18:02 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tieba.baidu.com/p/5003365597, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:18:02 ÉÏÎç rabbit.proxy.Connection$SendAndRestartListener failed
+ĞÅÏ¢: Exception when sending http header
+java.io.IOException: Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓĞµÄÁ¬½Ó¡£
+	at sun.nio.ch.SocketDispatcher.writev0(Native Method)
+	at sun.nio.ch.SocketDispatcher.writev(SocketDispatcher.java:55)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:148)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:504)
+	at java.nio.channels.SocketChannel.write(SocketChannel.java:502)
+	at rabbit.httpio.BlockSender.writeBuffer(BlockSender.java:92)
+	at rabbit.httpio.BlockSender.write(BlockSender.java:82)
+	at rabbit.httpio.HttpHeaderSender.sendHeader(HttpHeaderSender.java:45)
+	at rabbit.proxy.Connection.sendAndTryRestart(Connection.java:1082)
+	at rabbit.proxy.Connection.sendAndClose(Connection.java:1095)
+	at rabbit.proxy.Connection.doGateWayTimeout(Connection.java:741)
+	at rabbit.proxy.Connection.tryStaleEntry(Connection.java:635)
+	at rabbit.proxy.Connection.webConnectionSetupFailed(Connection.java:382)
+	at rabbit.proxy.SWC.establish(SWC.java:73)
+	at rabbit.proxy.SWC.failed(SWC.java:292)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:145)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:18:03 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tieba.baidu.com/p/5003365597, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:18:03 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://localhost:9666/, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:18:04 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tbmsg.baidu.com/gmessage/get?mtype=1&_=1492136273143, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:18:05 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tb2.bdstatic.com/tb/static-ihome/img/loading2.gif, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:18:05 ÉÏÎç rabbit.proxy.Connection$SendAndRestartListener failed
+ĞÅÏ¢: Exception when sending http header
+java.io.IOException: Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓĞµÄÁ¬½Ó¡£
+	at sun.nio.ch.SocketDispatcher.writev0(Native Method)
+	at sun.nio.ch.SocketDispatcher.writev(SocketDispatcher.java:55)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:148)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:504)
+	at java.nio.channels.SocketChannel.write(SocketChannel.java:502)
+	at rabbit.httpio.BlockSender.writeBuffer(BlockSender.java:92)
+	at rabbit.httpio.BlockSender.write(BlockSender.java:82)
+	at rabbit.httpio.HttpHeaderSender.sendHeader(HttpHeaderSender.java:45)
+	at rabbit.proxy.Connection.sendAndTryRestart(Connection.java:1082)
+	at rabbit.proxy.Connection.sendAndClose(Connection.java:1095)
+	at rabbit.proxy.Connection.doGateWayTimeout(Connection.java:741)
+	at rabbit.proxy.Connection.tryStaleEntry(Connection.java:635)
+	at rabbit.proxy.Connection.webConnectionSetupFailed(Connection.java:382)
+	at rabbit.proxy.SWC.establish(SWC.java:73)
+	at rabbit.proxy.SWC.failed(SWC.java:292)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:145)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:18:05 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tb2.bdstatic.com/tb/static-puser/widget/user_visit_card/img/grey_arrow_down_24_ac2025a.png, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:18:05 ÉÏÎç rabbit.proxy.Connection$SendAndRestartListener failed
+ĞÅÏ¢: Exception when sending http header
+java.io.IOException: Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓĞµÄÁ¬½Ó¡£
+	at sun.nio.ch.SocketDispatcher.writev0(Native Method)
+	at sun.nio.ch.SocketDispatcher.writev(SocketDispatcher.java:55)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:148)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:504)
+	at java.nio.channels.SocketChannel.write(SocketChannel.java:502)
+	at rabbit.httpio.BlockSender.writeBuffer(BlockSender.java:92)
+	at rabbit.httpio.BlockSender.write(BlockSender.java:82)
+	at rabbit.httpio.HttpHeaderSender.sendHeader(HttpHeaderSender.java:45)
+	at rabbit.proxy.Connection.sendAndTryRestart(Connection.java:1082)
+	at rabbit.proxy.Connection.sendAndClose(Connection.java:1095)
+	at rabbit.proxy.Connection.doGateWayTimeout(Connection.java:741)
+	at rabbit.proxy.Connection.tryStaleEntry(Connection.java:635)
+	at rabbit.proxy.Connection.webConnectionSetupFailed(Connection.java:382)
+	at rabbit.proxy.SWC.establish(SWC.java:73)
+	at rabbit.proxy.SWC.failed(SWC.java:292)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:145)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:18:06 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://eclick.baidu.com/a.js?tu=3417983&jk=20433b219223131f&word=http%3A%2F%2Ftieba.baidu.com%2Fp%2F5003365597&if=3&aw=960&ah=90&pt=131500&it=0&vt=131266&csp=1920,1040&bcl=960,90&pof=960,131&top=36&left=0&total=1&rdm=1492136269179, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:18:07 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tieba.baidu.com/p/5003365597, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:18:07 ÉÏÎç rabbit.proxy.Connection$SendAndRestartListener failed
+ĞÅÏ¢: Exception when sending http header
+java.io.IOException: Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓĞµÄÁ¬½Ó¡£
+	at sun.nio.ch.SocketDispatcher.writev0(Native Method)
+	at sun.nio.ch.SocketDispatcher.writev(SocketDispatcher.java:55)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:148)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:504)
+	at java.nio.channels.SocketChannel.write(SocketChannel.java:502)
+	at rabbit.httpio.BlockSender.writeBuffer(BlockSender.java:92)
+	at rabbit.httpio.BlockSender.write(BlockSender.java:82)
+	at rabbit.httpio.HttpHeaderSender.sendHeader(HttpHeaderSender.java:45)
+	at rabbit.proxy.Connection.sendAndTryRestart(Connection.java:1082)
+	at rabbit.proxy.Connection.sendAndClose(Connection.java:1095)
+	at rabbit.proxy.Connection.doGateWayTimeout(Connection.java:741)
+	at rabbit.proxy.Connection.tryStaleEntry(Connection.java:635)
+	at rabbit.proxy.Connection.webConnectionSetupFailed(Connection.java:382)
+	at rabbit.proxy.SWC.establish(SWC.java:73)
+	at rabbit.proxy.SWC.failed(SWC.java:292)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:145)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:18:08 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tbmsg.baidu.com/gmessage/get?mtype=1&_=1492136283143, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:18:09 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tieba.baidu.com/favicon.ico, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:18:09 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://localhost:9666/favicon.ico, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:18:50 ÉÏÎç rabbit.proxy.ProxyLogger setup
+ĞÅÏ¢: Log level set to: INFO
+ËÄÔÂ 14, 2017 10:18:50 ÉÏÎç rabbit.proxy.HttpProxy setupDNSHandler
+¾¯¸æ: This seems like a windows system, will use default sun handler for DNS
+ËÄÔÂ 14, 2017 10:18:50 ÉÏÎç rabbit.handler.convert.ExternalProcessConverter <init>
+¾¯¸æ: convert -/usr/bin/gm- not found, is your path correct?
+ËÄÔÂ 14, 2017 10:18:50 ÉÏÎç rabbit.handler.ImageHandler setup
+¾¯¸æ: imageConverter: rabbit.handler.convert.ExternalProcessConverter@593634ad can not convert images, using java.
+ËÄÔÂ 14, 2017 10:18:50 ÉÏÎç rabbit.handler.convert.ExternalProcessConverter <init>
+¾¯¸æ: convert -/usr/bin/gm- not found, is your path correct?
+ËÄÔÂ 14, 2017 10:18:50 ÉÏÎç rabbit.handler.ImageHandler setup
+¾¯¸æ: imageConverter: rabbit.handler.convert.ExternalProcessConverter@7e774085 can not convert images, using java.
+ËÄÔÂ 14, 2017 10:18:50 ÉÏÎç rabbit.handler.convert.ExternalProcessConverter <init>
+¾¯¸æ: convert -/usr/bin/gm- not found, is your path correct?
+ËÄÔÂ 14, 2017 10:18:50 ÉÏÎç rabbit.handler.ImageHandler setup
+¾¯¸æ: imageConverter: rabbit.handler.convert.ExternalProcessConverter@3f8f9dd6 can not convert images, using java.
+ËÄÔÂ 14, 2017 10:18:50 ÉÏÎç rabbit.proxy.HttpProxy setConfig
+ĞÅÏ¢: RabbIT proxy version 4.11: Configuration loaded: ready for action.
+ËÄÔÂ 14, 2017 10:19:08 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tbmsg.baidu.com/gmessage/get?mtype=1&_=1492136343142, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:19:13 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://localhost:9666/, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:19:18 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tbmsg.baidu.com/gmessage/get?mtype=1&_=1492136353142, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:19:33 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: mobile.pipe.aria.microsoft.com:443
+ËÄÔÂ 14, 2017 10:19:35 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://localhost:9666/favicon.ico, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:19:44 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tbmsg.baidu.com/gmessage/get?mtype=1&_=1492136363141, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:19:44 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: clients1.google.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:19:46 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: clients1.google.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:19:46 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: clients1.google.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:19:48 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tbmsg.baidu.com/gmessage/get?mtype=1&_=1492136383141, cause: java.net.ConnectException: Connection refused: no further information
+ËÄÔÂ 14, 2017 10:19:48 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tbmsg.baidu.com/gmessage/get?mtype=1&_=1492136333143, cause: java.io.IOException: timeout
+ËÄÔÂ 14, 2017 10:19:54 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: mobile.pipe.aria.microsoft.com:443
+ËÄÔÂ 14, 2017 10:19:54 ÉÏÎç rabbit.proxy.Connection webConnectionSetupFailed
+¾¯¸æ: Failed to set up web connection to: http://tbmsg.baidu.com/gmessage/get?mtype=1&_=1492136373142, cause: java.io.IOException: timeout
+ËÄÔÂ 14, 2017 10:19:59 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: clients1.google.com:443
+ËÄÔÂ 14, 2017 10:20:03 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: googleads.g.doubleclick.net:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:20:04 ÉÏÎç rabbit.proxy.SSLHandler warn
+¾¯¸æ: SSLHandler: failed to get web connection to: mobile.pipe.aria.microsoft.com:443
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at rabbit.io.WebConnection$ConnectListener.connect(WebConnection.java:141)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handleConnect(ChannelOpsHandler.java:144)
+	at org.khelekore.rnio.impl.ChannelOpsHandler.handle(ChannelOpsHandler.java:175)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.handleSelects(SingleSelectorRunner.java:350)
+	at org.khelekore.rnio.impl.SingleSelectorRunner.run(SingleSelectorRunner.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+
+ËÄÔÂ 14, 2017 10:20:12 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: clients1.google.com:443
+ËÄÔÂ 14, 2017 10:20:12 ÉÏÎç rabbit.proxy.SSLHandler$WebConnector timeout
+¾¯¸æ: SSLHandler: Timeout waiting for web connection: googleads.g.doubleclick.net:443
